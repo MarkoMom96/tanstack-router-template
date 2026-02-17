@@ -1,6 +1,6 @@
 {
   "plugins": ["prettier-plugin-tailwindcss"],
-  "tailwindFunctions": ["clsx", "cn", "twMerge", "tv"],
+  "tailwindFunctions": ["clsx", "cn", "twMerge", "tv", "cva"],
   "tailwindStylesheet": "./src/index.css",
   "tailwindAttributes": [],
   "printWidth": 120,
